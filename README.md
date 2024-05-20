@@ -1,8 +1,6 @@
-# Junk Drawer Scorecard Game
+# Elise's Cafe
 
-Here's a simple scorecard game to clutter score your junk drawer.
-
-Also, this was for me to get some time in learning Gatsby and React
+A little web-based menu for a little persons imaginary cafe
 
 
 --
